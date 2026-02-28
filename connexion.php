@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?php
 <<<<<<< HEAD
 /**
@@ -5,6 +6,9 @@
  * Base de données : admission_medecine
  */
 =======
+=======
+<<?php
+>>>>>>> liste_etudiant
 $host = "localhost";
 $dbname = "admission_medecine";
 $username = "root";
