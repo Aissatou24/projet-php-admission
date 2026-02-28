@@ -3,9 +3,9 @@
  * liste_etudiants.php - Affichage de tous les étudiants enregistrés
  * Faculté de Médecine - Université Cheikh Anta Diop
  */
-require_once 'connexion.php';
+require "connexion.php";
 
-$pdo = getConnexion();
+//$pdo = getConnexion();
 
 // ── Statistiques globales ──────────────────────────────────────────────────────
 $stats = $pdo->query("
