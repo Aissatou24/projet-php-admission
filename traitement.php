@@ -128,7 +128,7 @@ $stmt->execute([
     </p>
 
     <!-- Bouton Liste -->
-    <a href="liste_etudiants.php" class="btn">Voir la liste des étudiants</a>
+    <a href="liste_etudiant.php" class="btn">Voir la liste des étudiants</a>
 
     <!-- Bouton Retour -->
     <a href="index.php" class="btn">Retour au formulaire</a>

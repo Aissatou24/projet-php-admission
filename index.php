@@ -232,7 +232,7 @@
     </div>
 
     <div class="bottom-link">
-        <a href="liste_etudiants.php">→ Consulter la liste des étudiants</a>
+        <a href="liste_etudiant.php">→ Consulter la liste des étudiants</a>
     </div>
 
 </div>
